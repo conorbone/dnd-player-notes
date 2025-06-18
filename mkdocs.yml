@@ -23,7 +23,6 @@ theme:
 
 plugins:
   - search
-  - roamlinks
   - obsidian-support
   - mkdocs-pdf
 
