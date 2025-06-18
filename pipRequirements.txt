@@ -1,8 +1,4 @@
 mkdocs
 mkdocs-material
-mkdocs-redirects
-mkdocs-roamlinks-plugin
-mkdocs-rss-plugin
-pymdown-extensions
 mkdocs-obsidian-support-plugin
 mkdocs-pdf
