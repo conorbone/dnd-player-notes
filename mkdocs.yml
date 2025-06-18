@@ -20,7 +20,6 @@ theme:
     code: Roboto Mono
   features:
     - search.suggest
-  custom_dir: overrides
 
 plugins:
   - search
