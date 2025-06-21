@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 
 > These rules are not up-to-date, just dumped in here from 2016 or so when i had a larger group, honestly i cant remember most of these or the reasons
 > I might re write these at some point 
