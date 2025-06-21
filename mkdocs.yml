@@ -25,6 +25,15 @@ plugins:
   - search
   - obsidian-support
   - mkdocs-pdf
+  - pub-obsidian:
+    backlinks:
+      enabled: true
+    callouts:
+      enabled: true
+      indentation: spaces
+    links:
+      wikilinks_enabled: true
+      img_lazy: true
 
 # Extensions
 markdown_extensions:
